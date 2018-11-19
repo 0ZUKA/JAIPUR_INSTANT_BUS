@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BusDatabase</string>
+    <string name="textview">TextView</string>
+    <string-array name="source">
+        <item>sanganer town</item>
+        <item>sanganer stadium</item>
+        <item>kundan nagar</item>
+        <item>sanganer thana</item>
+        <item>datti vada</item>
+        <item>mahatma gandhi hospital</item>
+        <item>bosch limited</item>
+        <item>goner railway fatak</item>
+        <item>chatrala circle</item>
+        <item>genpact sitapura</item>
+        <item>agarwal farm</item>
+        <item>thadi market</item>
+        <item>vijay path</item>
+        <item>meera marg</item>
+        <item>patel marg</item>
+        <item>vki roadno.17</item>
+        <item>vki roadno.14</item>
+        <item>vki roadno.12</item>
+        <item>nanda canteen</item>
+        <item>32 dukane</item>
+    </string-array>
+    <string-array name="all_routes">
+        <item>AC1</item>
+        <item>AC2</item>
+        <item>AC5</item>
+        <item>3A</item>
+        <item>1A</item>
+
+    </string-array>
+
+</resources>
